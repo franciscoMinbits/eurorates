@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DollarEuroRates</string>
+    <string name="latest_exchange_rates">Latest Exchange Rates</string>
+    <string name="chart_title"> EURO - EXCHANGE RATES</string>
+</resources>
